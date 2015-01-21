@@ -1,0 +1,2 @@
+# bandjo
+Django Application
